@@ -1,6 +1,6 @@
 # Wiki
 The GoldCoin Wiki
 
-Go to the Wiki: https://github.com/goldcoin/wiki/wiki
+Go to the Whitepaper: https://github.com/goldcoin/wiki/wiki/GoldCoin-Whitepaper
 
 
